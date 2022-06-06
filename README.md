@@ -1,16 +1,25 @@
-### Hi there 👋
+- Profile
+  - 氏名:溝谷祐大 (ミゾタニユウタ)
+  - 生年月日:1998年11月1日
+  
+- 経歴
+  - 2014年4月　芝浦工業大学柏高等学校　普通科　入学
+  - 2017年3月　芝浦工業大学柏高等学校　普通科　卒業
+  - 2018年4月　筑波大学　情報学群　情報科学類　入学
+  - 2022年3月　筑波大学　情報学群　情報科学類　卒業
+  - 2022年4月　筑波大学大学院　理工情報生命学術院　システム情報工学研究群　博士前期課程　情報理工学位プログラム　入学〜現在
+  
+- ITスキル
+  - C++(DPC++):主に研究で使用
+  - Python:講義内でデータ分析，コミュニティ分析に使用した経験あり
+  - C, java, Matlab:講義内で使用した経験あり
 
-<!--
-**mizorugby/mizorugby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 論文
+  - FPGAを利用したグラフ幅優先探索の高速化．溝谷祐大，天笠俊之　情報処理学会　第84回全国大会
 
-Here are some ideas to get you started:
+- 資格
+  - 2015年6月　実用英語技能検定準二級　合格
+  - 2018年10月　普通自動車第一種免許　取得
+  - 2018年10月　普通自動二輪車免許　取得
+  - 2021年5月　TOEIC Listening and Writing Test 635点　取得
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
